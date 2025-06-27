@@ -1,0 +1,21 @@
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-decouple==3.8
+httpx==0.25.2
+
+# AI/ML Dependencies (for future Watsonx integration)
+# ibm-watson-machine-learning==1.0.335
+# ibm-cloud-sdk-core==3.16.7
+
+# Vector Database (for future Pinecone integration)
+# pinecone-client==2.2.4
+
+# Database (for production)
+# sqlalchemy==2.0.23
+# psycopg2-binary==2.9.9
+# alembic==1.13.1
