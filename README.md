@@ -236,18 +236,5 @@ The FastAPI backend can be deployed to:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support and questions:
-- 📧 Email: support@edututor-ai.com
-- 💬 Discord: [Join our community](https://discord.gg/edututor-ai)
-- 📚 Documentation: [docs.edututor-ai.com](https://docs.edututor-ai.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/edututor-ai/issues)
-
----
 
 **EduTutor AI** - Transforming education through personalized AI-powered learning experiences.
